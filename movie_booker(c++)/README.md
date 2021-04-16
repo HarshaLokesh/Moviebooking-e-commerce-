@@ -5,4 +5,4 @@ It allows password based entry to any administrator, who can add, delete and upd
 The customers can surf through the currently showing movies and book them.
 ## Code Demo(Output)
 Initial:
-![](Moviebooking-e-commerce-/movie_booker(c++)/images/intro.png "intro page")
+![](HarshaLokesh/Moviebooking-e-commerce-/blob/main/movie_booker(c++)/images/intro.png)
