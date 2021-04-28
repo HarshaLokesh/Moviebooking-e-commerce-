@@ -9,7 +9,7 @@ project was originally developed for turbo C++
 
 ## flow of control
 
-![](images/flowcontrol.png)
+![](images/flowcontrol.PNG)
 
 ## Code Demo(Output)
 Few images related to the project:-
