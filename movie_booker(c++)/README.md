@@ -5,12 +5,12 @@ It allows password based entry to any administrator, who can add, delete and upd
 The customers can surf through the currently showing movies and book them.
 
 project was originally developed for turbo C++
- Few changes need to made for running in other compilers 
+ Few changes need to made for running in other compilers
 ## Code Demo(Output)
 Initial:
 ![](HarshaLokesh/Moviebooking-e-commerce-/blob/main/movie_booker(c++)/images/intro.png)
 
-Admin: (movie entry)
+Admin: (Movie entry)
 
 ![](HarshaLokesh/Moviebooking-e-commerce-/blob/main/movie_booker(c++)/images/addmovie.png)
 
