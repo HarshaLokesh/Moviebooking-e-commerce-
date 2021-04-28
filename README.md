@@ -20,11 +20,5 @@ Booking: (seats)
 
 
 ![](movie_booker(c++)/images/intro.png)
- 
-Admin: (movie entry)
-
-![](movie_booker(c++)/images/addmovie.png)
-
-Booking: (seats)
 
 >>>>>>> f5a0217510affadbfdaadb72eac46fd57602a468:README.md
