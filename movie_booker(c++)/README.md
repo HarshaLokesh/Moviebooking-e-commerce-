@@ -7,6 +7,7 @@ The customers can surf through the currently showing movies and book them.
 project was originally developed for turbo C++
  Few changes need to made for running in other compilers
 ## Code Demo(Output)
+Few images related to the project:-
 Initial:
 
 ![](images/intro.png)
