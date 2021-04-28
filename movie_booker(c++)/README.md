@@ -6,3 +6,11 @@ The customers can surf through the currently showing movies and book them.
 ## Code Demo(Output)
 Initial:
 ![](HarshaLokesh/Moviebooking-e-commerce-/blob/main/movie_booker(c++)/images/intro.png)
+
+Admin: (movie entry)
+
+![](HarshaLokesh/Moviebooking-e-commerce-/blob/main/movie_booker(c++)/images/addmovie.png)
+
+Booking: (seats)
+
+![](HarshaLokesh/Moviebooking-e-commerce-/blob/main/movie_booker(c++)/images/seats.png)
