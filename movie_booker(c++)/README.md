@@ -4,14 +4,25 @@ This project demonstrates the working of a movie e-booking website.
 It allows password based entry to any administrator, who can add, delete and update the movie details.
 The customers can surf through the currently showing movies and book them.
 
-project was originally developed for turbo C++
+Project was originally developed for turbo C++,
  Few changes need to made for running in other compilers
 
-## flow of control
+## Concepts Implemented:
+
+ File Handling
+
+ Object Oriented Programming
+
+ Structures
+
+ Functions
+
+
+## Flow of Control:
 
 ![](images/flowcontrol.PNG)
 
-## Code Demo(Output)
+## Code Demo(Output):
 Few images related to the project:-
 
 Initial:
