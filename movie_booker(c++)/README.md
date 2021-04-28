@@ -8,6 +8,7 @@ project was originally developed for turbo C++
  Few changes need to made for running in other compilers
 ## Code Demo(Output)
 Initial:
+
 ![](images/intro.png)
 
 Admin: (Movie entry)
