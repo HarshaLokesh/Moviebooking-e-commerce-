@@ -8,12 +8,12 @@ project was originally developed for turbo C++
  Few changes need to made for running in other compilers
 ## Code Demo(Output)
 Initial:
-![](movie_booker(c++)/images/intro.png)
+![](images/intro.png)
 
 Admin: (Movie entry)
 
-![](movie_booker(c++)/images/addmovie.png)
+![](images/addmovie.png)
 
 Booking: (seats)
 
-![](movie_booker(c++)/images/seats.png)
+![](images/seats.png)
