@@ -8,12 +8,12 @@ project was originally developed for turbo C++
  Few changes need to made for running in other compilers
 ## Code Demo(Output)
 Initial:
-![](HarshaLokesh/Moviebooking-e-commerce-/blob/main/movie_booker(c++)/images/intro.png)
+![](movie_booker(c++)/images/intro.png)
 
 Admin: (Movie entry)
 
-![](HarshaLokesh/Moviebooking-e-commerce-/blob/main/movie_booker(c++)/images/addmovie.png)
+![](movie_booker(c++)/images/addmovie.png)
 
 Booking: (seats)
 
-![](HarshaLokesh/Moviebooking-e-commerce-/blob/main/movie_booker(c++)/images/seats.png)
+![](movie_booker(c++)/images/seats.png)
