@@ -9,10 +9,4 @@ Initial:
 
 
 ![](movie_booker(c++)/images/intro.png)
- 
-Admin: (movie entry)
-
-![](movie_booker(c++)/images/addmovie.png)
-
-Booking: (seats)
 
