@@ -25,3 +25,5 @@ Admin: (Movie entry)
 Booking: (seats)
 
 ![](images/seats.png)
+
+These are sample pictures of the program, various features regarding the program can be seen after running.
