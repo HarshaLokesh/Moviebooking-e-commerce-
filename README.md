@@ -20,21 +20,21 @@ Project was originally developed for turbo C++,
 
 ## Flow of Control:
 
-![](images/flowcontrol.PNG)
+![](movie_booker(c++)/images/flowcontrol.PNG)
 
 ## Code Demo(Output):
 Few images related to the project:-
 
 Initial:
 
-![](images/intro.png)
+![](movie_booker(c++)/images/intro.png)
 
 Admin: (Movie entry)
 
-![](images/addmovie.png)
+![](movie_booker(c++)/images/addmovie.png)
 
 Booking: (seats)
 
-![](images/seats.png)
+![](movie_booker(c++)/images/seats.png)
 
 These are sample pictures of the program, various features regarding the program can be seen after running.
